@@ -32,5 +32,6 @@ Classification was done by hand using a couple of scripts and an LLM for sanity 
 - Removed customer support/qa roles
 - Removed product/project management roles
 - If a programming langauge was in the title, did my best to infer the role type
+- Fullstack developer is probably a bit overindexed... I used it as a bit of a catch-all
 
 Anyhow, if you disagree with my classification I've included the original data so feel free to run your own!
